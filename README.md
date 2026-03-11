@@ -8,7 +8,7 @@ Welcome to the most advanced hybrid attendance tracking system! This is the mark
 ## 🛒 How to get the Source Code?
 This premium Full-Stack project (Laravel Backend + React.js Admin + Kotlin Android App) is available for purchase.
 
-👉 **[Click Here to Buy the Complete Source Code on Gumroad / CodeCanyon]** *(Aapka link yahan aayega)*
+👉 **[Click Here to Buy the Complete Source Code on Gumroad / CodeCanyon]** *([Aapka link yahan aayega](https://mohsinoasis25.gumroad.com/l/advance-attendance-system))*
 
 ---
 
